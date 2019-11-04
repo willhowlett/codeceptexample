@@ -1,0 +1,14 @@
+{
+  "name": "testcafeissue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "codeceptjs run"
+  },
+  "dependencies": {
+    "codeceptjs": "^2.3.5",
+    "testcafe": "^1.6.0",
+    "testcafe-browser-provider-browserstack": "^1.9.0"
+  }
+}
